@@ -41,7 +41,7 @@
       "ssh_timeout": "10000s",
       "type": "hyperv-iso",
       "ram_size": "{{ user `memory` }}",
-      "cpus": "{{ user `cpus` }}",
+      "cpu": "{{ user `cpus` }}",
       "vm_name": "{{ user `template` }}"
     },
     {
