@@ -3,12 +3,14 @@
 
 # Force LF line ending on these files
 *.sh eol=lf
+*.json
 
 ks.cfg eol=lf
 preseed.cfg eol=lf
 
 # Force CRLF line ending on these files
 *.bat eol=crlf
+*.ps1
 Autounattend.xml eol=crlf
 
 # Force binary on these files
