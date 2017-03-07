@@ -33,6 +33,7 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
+        "E:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "F:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "G:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
@@ -86,6 +87,7 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
+        "E:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "F:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "G:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
@@ -150,6 +152,7 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
+        "E:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "F:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "G:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
@@ -205,6 +208,7 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
+        "E:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "F:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "G:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
@@ -269,6 +273,7 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
+        "E:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "F:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "G:/ISOs/Ubuntu/ubuntu-16.04.2-server-amd64.iso",
         "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
