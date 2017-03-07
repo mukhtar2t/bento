@@ -33,9 +33,9 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
       "output_directory": "packer-{{user `template`}}-hyperv",
@@ -86,9 +86,9 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
       "output_directory": "packer-{{user `template`}}-virtualbox",
@@ -150,9 +150,9 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
       "output_directory": "packer-{{user `template`}}-vmware",
@@ -205,9 +205,9 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
       "output_directory": "packer-{{user `template`}}-parallels",
@@ -269,9 +269,9 @@
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "{{user `iso_checksum_type`}}",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
       "output_directory": "packer-{{user `template`}}-qemu",
@@ -332,9 +332,9 @@
     "iso_checksum": "737ae7041212c628de5751d15c3016058b0e833fdc32e7420209b76ca3d0a535",
     "iso_checksum_type": "sha256",
       "iso_urls": [
-        "F:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "G:\ISOs\Ubuntu\ubuntu-16.04.2-server-amd64.iso",
-        "C:\Users\Administrator\Downloads\ubuntu-16.04.2-server-amd64.iso",
+        "F:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "G:/ISOs/Ubuntu\ubuntu-16.04.2-server-amd64.iso",
+        "C:/Users/Administrator/Downloads/ubuntu-16.04.2-server-amd64.iso",
         "http://releases.ubuntu.com/16.04/ubuntu-16.04.2-server-amd64.iso"
       ],
     "iso_name": "ubuntu-16.04.2-server-amd64.iso",
